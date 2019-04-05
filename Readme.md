@@ -1,7 +1,7 @@
 <!-- default file list -->
 *Files to look at*:
 
-* [MainWindow.xaml](./CS/T207471/MainWindow.xaml) (VB: [MainWindow.xaml.vb](./VB/T207471/MainWindow.xaml.vb))
+* [MainWindow.xaml](./CS/T207471/MainWindow.xaml) (VB: [MainWindow.xaml](./VB/T207471/MainWindow.xaml))
 * [MainWindow.xaml.cs](./CS/T207471/MainWindow.xaml.cs) (VB: [MainWindow.xaml.vb](./VB/T207471/MainWindow.xaml.vb))
 <!-- default file list end -->
 # How to use the ThemeResource extension to load resources from DevExpress themes dynamically
