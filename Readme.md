@@ -28,7 +28,7 @@ The ThemeResource extension allows you to load a resource from a currently appli
 
 
 <!-- feedback -->
-## Does this example address your development requirements/objectives?
+## Does This Example Address Your Development Requirements/Objectives?
 
 [<img src="https://www.devexpress.com/support/examples/i/yes-button.svg"/>](https://www.devexpress.com/support/examples/survey.xml?utm_source=github&utm_campaign=use-the-themeresource-extension-to-load-resources-from-devexpress-themes-dynamically&~~~was_helpful=yes) [<img src="https://www.devexpress.com/support/examples/i/no-button.svg"/>](https://www.devexpress.com/support/examples/survey.xml?utm_source=github&utm_campaign=use-the-themeresource-extension-to-load-resources-from-devexpress-themes-dynamically&~~~was_helpful=no)
 
